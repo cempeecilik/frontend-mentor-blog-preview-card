@@ -15,6 +15,7 @@
 ![Custom Properties](https://img.shields.io/badge/CSS%20Variables-Used-8e44ad?style=for-the-badge)
 ![Box Shadows](https://img.shields.io/badge/Box%20Shadows-Used-ffb300?style=for-the-badge)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/979e2366-8a3e-4b5f-b6a2-f1857adcce75/deploy-status)](https://blog-preview-card-fm-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%203-blue)
 
@@ -77,7 +78,7 @@ The design is fully responsive, mobile-first, and uses semantic HTML elements an
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](SITE_LINK)
+Or you can check out the 👉 [live website here](https://blog-preview-card-fm-jiro.netlify.app/)
 
 ---
 
